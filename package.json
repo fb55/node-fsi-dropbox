@@ -1,0 +1,11 @@
+{
+	"name": "fsi-dropbox",
+	"description": "fsi implementation for Dropbox",
+	"author": "Felix Boehm <me@feedic.com>",
+	"version": "0.0.0",
+	"main": "index.js",
+	"dependencies": {
+		"dropbox": "0.6",
+		"fsi": "0"
+	}
+}
