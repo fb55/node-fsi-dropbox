@@ -5,7 +5,7 @@
 	"version": "0.0.0",
 	"main": "index.js",
 	"dependencies": {
-		"dropbox": "0.6",
+		"dropbox": "~2.4.0",
 		"fsi": "0"
 	}
 }
